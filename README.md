@@ -1,18 +1,18 @@
-### IP No 3 in a line problem
+# IP No 3 in a line problem
 
-# INTRODUCTION
+### INTRODUCTION
 
 This project's goal is finding a feasible solution to `No 3 in a line` problem using Integer Programming. 
 
-# PROBLEM DESCRIPTION
+### PROBLEM DESCRIPTION
 
 Given a grid of size `n x n`, the goal is to find a feasible solution to the problem of placing maximum elements on the grid such that no 3 elements are in a straight line.
 
-# APPROACH
+### APPROACH
 
 This can be found in `Report.pdf` file.
 
-# REQUIREMENTS
+### REQUIREMENTS
 
 - Python 3.6+
 - Gurobi Optimizer
