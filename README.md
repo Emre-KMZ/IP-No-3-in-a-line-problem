@@ -36,7 +36,7 @@ This can be found in `Report.pdf` file.
    python main.py
    ```
 
-   The script will solve the grid puzzle for grid sizes \( n = 6 \) to \( n = 15 \) and generate visualizations for each case.
+   Then you will be prompted to enter the grid size `n`. The script will then solve the problem using Gurobi and save the result as a image.
 
 2. **View the results**:
    The visualizations will be saved as images in the current directory. For example, `n_15.png` shows the optimal solution for a 15x15 grid.
